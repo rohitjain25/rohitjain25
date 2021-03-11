@@ -1,6 +1,3 @@
-<p align="center">
-  <img width="300" height="200" src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif?resize=498%2C498">
-</p>
 
 [![Gmail Badge](https://img.shields.io/badge/-www.rohitjain.com@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:www.rohitjain.com@gmail.com)](mailto:www.rohitjain.com@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
