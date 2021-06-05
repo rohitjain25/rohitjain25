@@ -7,10 +7,6 @@
 
 -  **Languages :** c, c++, Python, Bash/Shell.
 
--  **Hobbies :** Articles📕 & Music :headphones:
-
--  **Fact :** It's never late to get started 🎯:heart:
-
 -  **Organisation :** [Computer Society of india]
 
 <p align="center">
